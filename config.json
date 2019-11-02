@@ -1,7 +1,7 @@
 {
-  "first_app": "",
-  "change_calculator": "",
-  "mortgage_calculator": "",
-  "top_spots": "",
-  "vstda": ""
+  "first_app": "https://pure-basin-78897.herokuapp.com/",
+  "change_calculator": "https://ag-change-calc.herokuapp.com/",
+  "mortgage_calculator": "https://ag-mortgage-calc.herokuapp.com/",
+  "top_spots": "https://ag-sd-top-spots.herokuapp.com/",
+  "vstda": "https://ag-vstda-app.herokuapp.com/"
 }
